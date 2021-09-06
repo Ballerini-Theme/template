@@ -40,4 +40,4 @@ This theme is maintained by the following people/person and bunch of [awesome co
 
 ## License
 
-[MIT License](./LICENSE.md)
+[MIT License](./LICENSE)
